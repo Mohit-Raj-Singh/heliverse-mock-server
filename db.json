@@ -1,12 +1,8 @@
 {
   "data":[
 ],
-  "users":[
-  {
-    "username": "Mohit Raj Singh",
-    "email": "abc@gmail.com",
-    "password": "abcd",
-    "id": 1
-  }
-]
+  "login":[
+],
+  "signup":[
+    ]
 }
